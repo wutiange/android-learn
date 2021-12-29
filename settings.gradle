@@ -1,0 +1,4 @@
+include ':common'
+include ':drawlayout'
+include ':app'
+rootProject.name = "Learn"

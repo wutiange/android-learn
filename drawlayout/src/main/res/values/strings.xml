@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">抽屉学习</string>
+    <string name="find_repositories">查询版本库</string>
+    <string name="avatar">头像</string>
+    <string name="home">主页</string>
+    <string name="log_out">注销</string>
+    <string name="gists">Gists</string>
+    <string name="issue_dashboard"> Issue 面板</string>
+    <string name="bookmarks">书签</string>
+    <string name="organizations">组织</string>
+</resources>
